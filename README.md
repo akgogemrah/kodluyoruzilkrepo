@@ -16,6 +16,10 @@
 
 <p> Projeyi klonladıktan sonra visual studio Code da açınız. </p>
 
+<p> Linux için </p>
+
+> cd kodluyoruzilkrepo
+> code .
  
  
  
