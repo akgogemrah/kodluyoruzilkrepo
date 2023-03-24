@@ -9,7 +9,12 @@
 
 <p> Öncellikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.) </p>
 
- < https://github.com/akgogemrah/kodluyoruzilkrepo.git
+ > Text that is a quote
+
+ 
+ 
+ 
+ https://github.com/akgogemrah/kodluyoruzilkrepo.git
 
 
 
