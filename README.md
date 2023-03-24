@@ -18,8 +18,8 @@
 
 <p> Linux için </p>
 
-> cd kodluyoruzilkrepo
-> code .
+> cd kodluyoruzilkrepo  <p> code . </p>
+
  
  
  
