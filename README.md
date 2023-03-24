@@ -7,7 +7,7 @@
  
  # Installation
 
-> Text that is a quote
+<p> Öncellikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.) </p>
 
 
 
