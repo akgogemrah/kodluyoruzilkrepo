@@ -9,5 +9,7 @@
 
 <p> Öncellikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.) </p>
 
+< https://github.com/akgogemrah/kodluyoruzilkrepo.git
+
 
 
