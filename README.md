@@ -14,6 +14,8 @@
 
 # Usage
 
+<p> Projeyi klonladıktan sonra visual studio Code da açınız. </p>
+
  
  
  
