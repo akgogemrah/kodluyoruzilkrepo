@@ -26,7 +26,7 @@
 
 # Licance
 
-<link> MIT </link>
+(MIT).
  
  
  
